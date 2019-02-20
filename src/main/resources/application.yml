@@ -1,0 +1,7 @@
+
+
+welcome.message: Ironman
+
+spring:
+  thymeleaf:
+    cache: false
