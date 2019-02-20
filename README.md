@@ -14,4 +14,4 @@ Además agregué un controlador adicional para que veas como se usa donde imprim
 
 Ahora a partir de aqui busca que tienes mal. Un ejemplito de clase de primaria. Toda la magia esta en la clase [WelcomeController.java](src/main/java/com/example/demo/ctrl/WelcomeController.java). 
 
-Tambien te incluí un test unitario para que aprendas ya a trabajar como un profesional y validar las cosas desde el desarrollo. Eso lo puedes ver aqui en la clase [WelcomeControllerTest.java](src/main/test/com/example/demo/ctrl/WelcomeControllerTest.java)
+Tambien te incluí un test unitario para que aprendas ya a trabajar como un profesional y validar las cosas desde el desarrollo. Eso lo puedes ver aqui en la clase [WelcomeControllerTest.java](src/test/java/com/example/demo/ctrl/WelcomeControllerTest.java)
